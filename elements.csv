@@ -1,0 +1,119 @@
+position,label,element,year,era,era label,number,decade,row,col
+27,Co,Cobalt,1735,Early Chemistry,,15,1730,4,23
+78,Pt,Platinum,1735,Early Chemistry,,16,1730,6,24
+28,Ni,Nickel,1751,Early Chemistry,,17,1750,4,24
+12,Mg,Magnesium,1755,Early Chemistry,,18,1750,3,2
+1,H,Hydrogen,1766,Early Chemistry,,19,1760,1,1
+8,O,Oxygen,1771,Early Chemistry,,20,1770,2,30
+7,N,Nitrogen,1772,Early Chemistry,,21,1770,2,29
+56,Ba,Barium,1772,Early Chemistry,,22,1770,6,2
+17,Cl,Chlorine,1774,Early Chemistry,,23,1770,3,31
+25,Mn,Manganese,1774,Early Chemistry,,24,1770,4,21
+42,Mo,Molybdenum,1778,Early Chemistry,,25,1770,5,20
+74,W,Tungsten,1781,Early Chemistry,,26,1780,6,20
+52,Te,Tellurium,1782,Early Chemistry,,27,1780,5,30
+38,Sr,Strontium,1787,Early Chemistry,,28,1780,5,2
+40,Zr,Zirconium,1789,Early Chemistry,,29,1780,5,18
+92,U,Uranium,1789,Early Chemistry,,30,1780,7,6
+22,Ti,Titanium,1791,Lavoisier,,31,1790,4,18
+24,Cr,Chromium,1794,Lavoisier,,33,1790,4,20
+39,Y,Yttrium,1794,Lavoisier,,32,1790,5,17
+4,Be,Beryllium,1798,Lavoisier,,34,1790,2,2
+41,Nb,Niobium,1801,Lavoisier,,35,1800,5,19
+46,Pd,Palladium,1802,Lavoisier,,37,1800,5,24
+73,Ta,Tantalum,1802,Lavoisier,,36,1800,6,19
+58,Ce,Cerium,1803,Lavoisier,,38,1800,6,4
+76,Os,Osmium,1803,Lavoisier,,39,1800,6,22
+77,Ir,Iridium,1803,Lavoisier,,40,1800,6,23
+45,Rh,Rhodium,1804,Lavoisier,,41,1800,5,23
+11,Na,Sodium,1807,Lavoisier,,43,1800,3,1
+19,K,Potassium,1807,Lavoisier,,42,1800,4,1
+5,B,Boron,1808,Lavoisier,,45,1800,2,27
+20,Ca,Calcium,1808,Lavoisier,,44,1800,4,2
+9,F,Fluorine,1810,Lavoisier,,46,1810,2,31
+53,I,Iodine,1811,Lavoisier,,47,1810,5,31
+3,Li,Lithium,1817,Lavoisier,,48,1810,2,1
+34,Se,Selenium,1817,Lavoisier,,50,1810,4,30
+48,Cd,Cadmium,1817,Lavoisier,,49,1810,5,26
+14,Si,Silicon,1823,Lavoisier,,51,1820,3,28
+13,Al,Aluminium,1824,Lavoisier,,52,1820,3,27
+35,Br,Bromine,1825,Lavoisier,,53,1820,4,31
+90,Th,Thorium,1829,Lavoisier,,54,1820,7,4
+23,V,Vanadium,1830,Lavoisier,,55,1830,4,19
+57,La,Lanthanum,1838,Lavoisier,,56,1830,6,3
+65,Tb,Terbium,1843,Lavoisier,,58,1840,6,11
+68,Er,Erbium,1843,Lavoisier,,57,1840,6,14
+44,Ru,Ruthenium,1844,Lavoisier,,59,1840,5,22
+55,Cs,Caesium,1860,Lavoisier,,60,1860,6,1
+37,Rb,Rubidium,1861,Lavoisier,,61,1860,5,1
+81,Tl,Thallium,1861,Lavoisier,,62,1860,6,27
+49,In,Indium,1863,Lavoisier,,63,1860,5,27
+2,He,Helium,1868,Lavoisier,,64,1860,1,32
+31,Ga,Gallium,1875,Mendeleev,,65,1870,4,27
+67,Ho,Holmium,1878,Mendeleev,,67,1870,6,13
+70,Yb,Ytterbium,1878,Mendeleev,,66,1870,6,16
+21,Sc,Scandium,1879,Mendeleev,,69,1870,4,17
+62,Sm,Samarium,1879,Mendeleev,,70,1870,6,8
+69,Tm,Thulium,1879,Mendeleev,,68,1870,6,15
+64,Gd,Gadolinium,1880,Mendeleev,,71,1880,6,10
+59,Pr,Praseodymium,1885,Mendeleev,,72,1880,6,5
+60,Nd,Neodymium,1885,Mendeleev,,73,1880,6,6
+32,Ge,Germanium,1886,Mendeleev,,74,1880,4,28
+66,Dy,Dysprosium,1886,Mendeleev,,75,1880,6,12
+18,Ar,Argon,1894,Mendeleev,,76,1890,3,32
+63,Eu,Europium,1896,Mendeleev,,77,1890,6,9
+10,Ne,Neon,1898,Mendeleev,,79,1890,2,32
+36,Kr,Krypton,1898,Mendeleev,,78,1890,4,32
+54,Xe,Xenon,1898,Mendeleev,,80,1890,5,32
+84,Po,Polonium,1898,Mendeleev,,81,1890,6,30
+88,Ra,Radium,1898,Mendeleev,,82,1890,7,2
+86,Rn,Radon,1899,Mendeleev,,83,1890,6,32
+89,Ac,Actinium,1902,Mendeleev,,84,1900,7,3
+71,Lu,Lutetium,1906,Mendeleev,,85,1900,6,17
+91,Pa,Protactinium,1913,Mendeleev,,86,1910,7,5
+72,Hf,Hafnium,1922,Mendeleev,,87,1920,6,18
+75,Re,Rhenium,1925,Mendeleev,,88,1920,6,21
+43,Tc,Technetium,1937,Nuclear,,89,1930,5,21
+87,Fr,Francium,1939,Nuclear,,90,1930,7,1
+85,At,Astatine,1940,Nuclear,,92,1940,6,31
+93,Np,Neptunium,1940,Nuclear,,91,1940,7,7
+94,Pu,Plutonium,1941,Nuclear,,93,1940,7,8
+95,Am,Americium,1944,Nuclear,,95,1940,7,9
+96,Cm,Curium,1944,Nuclear,,94,1940,7,10
+61,Pm,Promethium,1945,Nuclear,,96,1940,6,7
+97,Bk,Berkelium,1949,Nuclear,,97,1940,7,11
+98,Cf,Californium,1950,Nuclear,,98,1950,7,12
+99,Es,Einsteinium,1952,Nuclear,,99,1950,7,13
+100,Fm,Fermium,1952,Nuclear,,100,1950,7,14
+101,Md,Mendelevium,1955,Nuclear,,101,1950,7,15
+103,Lr,Lawrencium,1961,Nuclear,,102,1960,7,17
+102,No,Nobelium,1966,Nuclear,,103,1960,7,16
+104,Rf,Rutherfordium,1969,Nuclear,,104,1960,7,18
+105,Db,Dubnium,1970,Nuclear,,105,1970,7,19
+106,Sg,Seaborgium,1974,Nuclear,,106,1970,7,20
+107,Bh,Bohrium,1981,Nuclear,,107,1980,7,21
+109,Mt,Meitnerium,1982,Nuclear,,108,1980,7,23
+108,Hs,Hassium,1984,Nuclear,,109,1980,7,22
+110,Ds,Darmstadtium,1994,Nuclear,,110,1990,7,24
+111,Rg,Roentgenium,1994,Nuclear,,111,1990,7,25
+112,Cn,Copernicium,1996,Nuclear,,112,1990,7,26
+114,Fl,Flerovium,1999,Nuclear,,113,1990,7,28
+116,Lv,Livermorium,2000,Nuclear,,114,2000,7,30
+118,Og,Oganesson,2002,Nuclear,,115,2000,7,32
+115,Mc,Moscovium,2003,Nuclear,,116,2000,7,29
+113,Nh,Nihonium,2004,Nuclear,,117,2000,7,27
+117,Ts,Tennessine,2009,Nuclear,,118,2000,7,31
+6,C,Carbon,,Ancient,A,6,,2,28
+15,P,Phosphorus,,Alchemical,L,14,,3,29
+16,S,Sulfur,,Ancient,A,8,,3,30
+26,Fe,Iron,,Ancient,A,5,,4,22
+29,Cu,Copper,,Ancient,A,1,,4,25
+30,Zn,Zinc,,Ancient,A,10,,4,26
+33,As,Arsenic,,Alchemical,L,11,,4,29
+47,Ag,Silver,,Ancient,A,4,,5,25
+50,Sn,Tin,,Ancient,A,7,,5,28
+51,Sb,Antimony,,Alchemical,L,12,,5,29
+79,Au,Gold,,Ancient,A,3,,6,25
+80,Hg,Mercury,,Ancient,A,9,,6,26
+82,Pb,Lead,,Ancient,A,2,,6,28
+83,Bi,Bismuth,,Alchemical,L,13,,6,29
